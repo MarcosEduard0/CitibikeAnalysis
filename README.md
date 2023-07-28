@@ -1,7 +1,7 @@
 
-# Análise de dados do Citi Bike de Nova Iorque
+# Análise de dados do Citi Bike de Nova jersey
 
-Este projeto tem como objetivo realizar uma análise de dados do sistema de compartilhamento de bicicletas da cidade de Nova Iorque, conhecido como Citi Bike. O Citi Bike é um sistema de compartilhamento de bicicletas que foi lançado em 2013 e desde então vem ganhando popularidade na cidade de Nova Iorque.
+Este projeto tem como objetivo realizar uma análise de dados do sistema de compartilhamento de bicicletas da cidade de Nova jersey, conhecido como Citi Bike. O Citi Bike é um sistema de compartilhamento de bicicletas que foi lançado em 2013 e desde então vem ganhando popularidade na cidade de Nova Iorque.
 
 Neste projeto, serão utilizados dados abertos disponibilizados pelo Citi Bike para analisar informações sobre o uso das bicicletas, padrões de viagem, tempo médio de uso, rotas mais frequentes, entre outras informações relevantes.
 
